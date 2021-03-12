@@ -1,3 +1,2 @@
-const car = require('./codingfile')
-let x=car.brand;
-console.log(x);
+const index = require('./codingfile.js');
+let val = index.dbconnection(); 
